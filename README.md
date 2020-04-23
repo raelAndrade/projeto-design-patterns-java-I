@@ -1,6 +1,6 @@
 # Padrões de Projetos - ( Design Patterns )
 
-### o que é um padrão de projeto?
+### O que é um padrão de projeto?
 
 * Um padrão de projeto é uma solução elegante para um problema que é recorrente no dia-a-dia do desenvolvedor.
 
@@ -11,6 +11,4 @@
 * É entender qual a real motivação do padrão, e quando dele deve ser aplicado.
 
 * As implementações são menos importantes, pois eles podem variar. 
-
-### 
 
