@@ -11,6 +11,7 @@ public class TesteDeImpostos {
 	
 		Imposto iss = new ISS();
 		Imposto icms = new ICMS();
+		Imposto iccc = new ICCC();
 		
 		Orcamento orcamento = new Orcamento(500.0);
 		
@@ -18,6 +19,7 @@ public class TesteDeImpostos {
 		
 		calculador.realizaCalculo(orcamento, iss);
 		calculador.realizaCalculo(orcamento, icms);
+        System.out.println(iccc.calcula(orcamento));
 	}
 
 }
